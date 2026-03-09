@@ -12,7 +12,7 @@ as seguintes ferramentas.
 
 ## Linguagens de programação
 
-- [Python](linguagens/python.md)
+- [Python](/ferramentas/linguagens/python.md)
 - [Dart](linguagens/dart.md)
 
 ## Ferramentas de desenvolvimento
