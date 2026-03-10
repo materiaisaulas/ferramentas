@@ -1,10 +1,8 @@
-# Ferramentas
+# Instalações
 
 - Introdução
-  - [Apresentação](readme.md)
-
-- Editores
-  - [VSCode](editores/vscode.md)
+  - [Apresentação](ferramentas/readme.md)
+  - [Visual Studio Cosde](/ferramentas/editores/vscode.md)
 
 - Ferramentas
   - [Git](ferramentas/git.md)
@@ -14,10 +12,10 @@
   - [Python](linguagens/python.md)
   - [Dart](linguagens/dart.md)
 
-- Mobile
+- Frameworks
   - [Flutter](mobile/flutter.md)
 
-- Sistemas
+- Sistemas operacionais
   - [WSL](sistemas/wsl.md)
 
   

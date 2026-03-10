@@ -1,18 +1,12 @@
 
----
 
-# 5. Algo muito importante para alunos
+Acesse o site oficial: https://www.python.org/downloads
 
-Sempre incluir:
+Passos (Windows/macOS/Linux)
 
-### verificação da instalação
+Baixe a versão recomendada (ex: Python 3.12.x).
+Execute o instalador.
 
-Exemplo:
+⚠️ Marque a opção "Add Python to PATH" antes de clicar em “Install Now”.
+Finalize a instalação.
 
-```bash
-python --version
-git --version
-node -v
-flutter doctor
-
-```
